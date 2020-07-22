@@ -1,8 +1,5 @@
 # RPA-Database-Connection
 
-# The-Filipino-Doctors
-
-        The purpose of this Bot is the extract Data Records from "https://www.thefilipinodoctor.com/"
 # Goal
 To drive success in team members it's important to set measurable goals for each day. The purpose of these goals is to provide team members with achievable goals. These goals have a magical best way of breaking down the barriers and creating positivity momentum individually and collectivity. Furthermore, at each quarter end, the outcomes of quarterly goals must be made available to the whole team as a way to measure and celebrate progress, and to determine where improvements where to be made. Working with this kind of transparency decreases confusion, finger-pointing and the disintegration of team cohesion and also to enhance communication skills as members working as a TEAM.
 
